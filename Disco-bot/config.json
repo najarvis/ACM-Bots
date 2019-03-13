@@ -1,0 +1,8 @@
+{
+  "token": "NTU1NDYyOTU0MDgzMTU2MDE4.D2ri0A.OjQENclFWDwTVtadxGvm-JBo8vA",
+  "bot": {
+    "plugins": [
+      "plugins.acm_bot"
+    ]
+  }
+}
